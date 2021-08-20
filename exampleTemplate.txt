@@ -1,0 +1,23 @@
+Subject: Assignment 2  marks and feedback
+
+Dear [PrefName],
+
+here are the marks and feedback for your Assignment 2.
+
+Total Marks [TotalMarks]/10
+
+Question 1 marks: [Q1]
+Question 1 Comments: [Q1feedb]
+
+Question 2a marks: [Q2a]
+Question 2a Comments: [Q2afeedb]
+
+Question 2b marks: [Q2b]
+Question 2b Comments: [Q2bfeedb]
+
+[ifNonNull: late]
+Unfortunately the submission was [late] days late and a deduction of 5 percent was applied.
+[endif]
+
+Best regards,
+the Course team
